@@ -1,0 +1,31 @@
+{
+  "name": "blockchain-explorer",
+  "description": "A Ethereum Blockchain Explorer project with AngularJS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/angular/angular-seed",
+  "license": "UNLICENSE",
+  "authors": ["Srinivasan Swaminathan <shrinivaasan.s@gmail.com>"],
+  "private": true,
+  "dependencies": {
+    "angular": "1.5.8",
+    "angular-route": "1.5.8",
+    "angular-touch": "1.5.8",
+    "angular-animate": "1.5.8",
+    "angular-bootstrap": "2.2.0",
+    "bootstrap": "3.3.7",
+    "web3": "0.14.0",
+    "font-awesome": "fontawesome#4.7.0",
+    "bootstrap3-dialog": "bootstrap-dialog#^1.35.3",
+    "ethereum-tx": "*",
+    "moment": "^2.17.0",
+    "ngclipboard": "^1.1.1",
+    "clipboard": "^1.5.16",
+    "angular-mocks": "^1.6.1",
+    "ethjs-abi-denis": "0.1.1",
+    "rlp": "^0.0.1",
+    "abi-decoder": "^1.0.3"
+  },
+  "resolutions": {
+"angular": "~1.5.8"
+  }
+}
